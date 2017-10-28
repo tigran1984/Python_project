@@ -18,7 +18,7 @@ main_dict  = {   }
 my_dict0 =  {
            1 : 'load_image',
            2 : 'Load  Image',
-           3 : '/home/tiko/Image_Editor_Qt_19.02.2016/importimg.png',
+           3 : 'importimg.png',
            4 : 'Alt+I',
            5 : 'Importing selected Image',
            6 : 'File'}
@@ -26,7 +26,7 @@ main_dict.update( {0 : my_dict0} )
 my_dict1 =  {
            1 : 'save_image',
            2 : 'Save Image',
-           3 : '/home/tiko/Image_Editor_Qt_19.02.2016/saveimg.png',
+           3 : 'saveimg.png',
            4 : 'Alt+Shift+S',
            5 : 'Saveing image',
            6 : 'File'}
